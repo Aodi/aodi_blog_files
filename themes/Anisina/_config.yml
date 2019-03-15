@@ -12,7 +12,7 @@ timezone:
 # custom Site settings
 # more detail check out docs
 SEOTitle: 奥迪的博客
-header-img: 
+header-img: https://github.com/Aodi/aodi_blog_files/raw/master/head.jpg
 email: liuaodi95@gmail.com
 description: "奥迪在 Github 上的个人博客"
 keyword: # seo key words
@@ -156,8 +156,8 @@ clip-avatar: "?imageView2/2/w/300/h/300/interlace/1/q/90"
 clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
 
 # post default images
-post-default-img: #博文默认的图片
-post-default-img-mobile: #移动端显示的图片
+post-default-img: https://github.com/Aodi/aodi_blog_files/raw/master/post.png #博文默认的图片
+post-default-img-mobile: https://github.com/Aodi/aodi_blog_files/raw/master/post.png #移动端显示的图片
 
 # search api , set your custom key
 swiftype_key: 
